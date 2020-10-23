@@ -1,4 +1,4 @@
-<h1>My name is Marthin<img src="https://media.giphy.com/media/j6ZhcAyUctYrj2ueBi/giphy.gif" width="100px"></h1>
+<h1>My name is Marthin<img src="https://media.giphy.com/media/j6ZhcAyUctYrj2ueBi/giphy.gif" width="50px"></h1>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarthinKorb&theme=tokyonight&layout=compact)](https://github.com/MarthinKorb/github-readme-stats)
 ![Marthin's github stats](https://github-readme-stats.vercel.app/api?username=MarthinKorb&show_icons=true&theme=tokyonight)
