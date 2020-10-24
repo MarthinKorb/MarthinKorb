@@ -1,5 +1,8 @@
-<h1>Hey there!<img src="https://media.giphy.com/media/SvGFA2WF9IP0WjmzvE/giphy.gif" width="100px"></h1>
+<h1>Hey there!</h1>
+
 <h2>I'm Marthin!</h2>
+
+<img src="https://media.giphy.com/media/SvGFA2WF9IP0WjmzvE/giphy.gif" width="80px">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarthinKorb&theme=tokyonight&layout=compact)](https://github.com/MarthinKorb/github-readme-stats)
 ![Marthin's github stats](https://github-readme-stats.vercel.app/api?username=MarthinKorb&show_icons=true&theme=tokyonight)
