@@ -7,6 +7,7 @@
 
 ## Tech Skills
 
+![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Nodejs](https://img.shields.io/badge/NodeJs-339933.svg?logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
